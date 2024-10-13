@@ -22,7 +22,7 @@ pip install qrcode[pil]
 ### Usage
 1. Clone the repository or download the project files.
 2. Run the script `qr_generator.py` and enter the text or URL you want to encode.
-3. The QR code will be generated and saved as an image file (`qrcode.png`) in the same directory.
+3. The QR code will be generated and saved as an image file (`qr_code.png`) in the same directory.
 
 ```bash
 python qr_generator.py
